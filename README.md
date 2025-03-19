@@ -1,4 +1,4 @@
-# Alura Plus
+# Alura Books
 
 ![Screenshot da página home da Alura Books](https://github.com/user-attachments/assets/51ca811a-fe4c-4e82-8bd9-b365998aa2b1)
 
@@ -14,12 +14,18 @@ Para visualizar a página funcionando:
 
 <hr>
 
+## 🔨 Funcionalidades do projeto
+
+A página mostrará um menu de navegação no cabeçalho, um banner com uma barra de pesquisas para o conteúdo do site, seções de lançamentos, livros mais vendidos e tópicos visitados recentemente, uma seção de cadastro para newsletter e um rodapé com demais links relacionados à Alura e ao Alura Books.
+
+<hr>
+
 ## 🚀 Tecnologias
 
-- Desenvolvimento e estruturação do código HTML alinhados às boas práticas para estilização no CSS.
-- Aplicação de responsividade à página: versão mobile, versão tablet (1024px) e versão desktop (1728px).
-- Criação de menu hamburger utilizando input - checkbox.
-- Aplicação de script pronto para carrossel com os livros da plataforma.
+- Desenvolvimento e estruturação do código `HTML` alinhados às boas práticas para estilização no `CSS`.
+- Aplicação de `responsividade` à página: versão mobile, versão tablet (1024px) e versão desktop (1728px).
+- Criação de menu hamburger utilizando `input - checkbox`.
+- Aplicação de `script` pronto para carrossel com os livros da plataforma.
  
 
 
